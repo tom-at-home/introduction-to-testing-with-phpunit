@@ -27,4 +27,40 @@ class ValidatorTest extends \PHPUnit\Framework\TestCase {
         $validator->setIsValid(false);
         $this->assertFalse($validator->getIsValid());
     }
+
+    public function testCheckForMinStringLengthWithValidData()
+    {
+        $request = new Request(['mintype' => 'yellow']);
+        $response = new Response($request);
+        $validator = new Validator($request, $response);
+        $errors = $validator->check(['mintype' => 'min:3']);
+        $this->assertCount(0, $errors);
+    }
+
+    public function testCheckForMinStringLengthWithInvalidData()
+    {
+        $request = new Request(['mintype' => 'x']);
+        $response = new Response($request);
+        $validator = new Validator($request, $response);
+        $errors = $validator->check(['mintype' => 'min:3']);
+        $this->assertCount(1, $errors);
+    }
+
+    public function testCheckForEmailWithValidData()
+    {
+        $request = new Request(['mintype' => 'john@here.com']);
+        $response = new Response($request);
+        $validator = new Validator($request, $response);
+        $errors = $validator->check(['mintype' => 'email']);
+        $this->assertCount(0, $errors);
+    }
+
+    public function testCheckForEmailWithInvalidData()
+    {
+        $request = new Request(['mintype' => 'whatever']);
+        $response = new Response($request);
+        $validator = new Validator($request, $response);
+        $errors = $validator->check(['mintype' => 'email']);
+        $this->assertCount(1, $errors);
+    }
 }

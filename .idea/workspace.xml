@@ -1,59 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dde7963c-e67f-46bd-a12e-ef9b7edbb026" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Tests/Validation/ValidatorTest.php" afterDir="false" />
+    <list id="bb58c662-a46b-4e79-bb32-9021c5b66832" name="Lektion 10" comment="Lektion 10&#10;&#10;(cherry picked from commit f5fdd88)">
+      <changelist_data name="Tomasz" email="tomasz.urbaniak@me.com" date="1522777633000">
+        <option name="date" value="1522777633000" />
+        <option name="email" value="tomasz.urbaniak@me.com" />
+        <option name="name" value="Tomasz" />
+      </changelist_data>
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Auth/._LoggedIn.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Auth/._LoggedIn.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Auth/LoggedIn.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Auth/LoggedIn.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Auth/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Auth/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Auth/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Auth/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Controllers/._AdminController.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Controllers/._AdminController.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Controllers/._AuthenticationController.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Controllers/._AuthenticationController.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Controllers/._BaseController.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Controllers/._BaseController.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Controllers/._PageController.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Controllers/._PageController.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Controllers/._RegisterController.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Controllers/._RegisterController.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Controllers/._TestimonialController.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Controllers/._TestimonialController.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Controllers/AdminController.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Controllers/AdminController.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Controllers/AuthenticationController.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Controllers/AuthenticationController.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Controllers/BaseController.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Controllers/BaseController.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Controllers/PageController.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Controllers/PageController.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Controllers/RegisterController.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Controllers/RegisterController.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Controllers/TestimonialController.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Controllers/TestimonialController.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Controllers/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Controllers/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Controllers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Controllers/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Email/._SendEmail.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Email/._SendEmail.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Email/SendEmail.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Email/SendEmail.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Email/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Email/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Email/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Email/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Http/._Request.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Http/._Request.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Http/._Response.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Http/._Response.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Http/._Session.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Http/._Session.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Http/Request.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Http/Request.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Http/Response.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Http/Response.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Http/Session.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Http/Session.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Http/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Http/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Http/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Http/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Interfaces/._ControllerInterface.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Interfaces/._ControllerInterface.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Interfaces/ControllerInterface.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Interfaces/ControllerInterface.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Interfaces/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Interfaces/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Interfaces/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Interfaces/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Models/._Page.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Models/._Page.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Models/._Testimonial.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Models/._Testimonial.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Models/._User.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Models/._User.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Models/._UserPending.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Models/._UserPending.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Models/Page.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Models/Page.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Models/Testimonial.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Models/Testimonial.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Models/User.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Models/User.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Models/UserPending.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Models/UserPending.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Models/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Models/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Models/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Models/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Validation/._Validator.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Validation/._Validator.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Validation/Validator.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Validation/Validator.php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Validation/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Validation/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/Validation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/Validation/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/index.html" afterDir="false" />
+    </list>
+    <list default="true" id="dde7963c-e67f-46bd-a12e-ef9b7edbb026" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/Tests/Validation/ValidatorTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Validation/ValidatorTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Validation/Validator.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Validation/Validator.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -65,6 +23,20 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <executablePath>composer</executablePath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
@@ -80,8 +52,8 @@
       <file leaf-file-name="ValidatorTest.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Tests/Validation/ValidatorTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="659">
-              <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+            <state relative-caret-position="526">
+              <caret line="57" column="44" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
               <folding>
                 <element signature="e#30#53#0#PHP" expanded="true" />
               </folding>
@@ -89,11 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Response.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Http/Response.php">
+      <file leaf-file-name="Validator.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Validation/Validator.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+            <state relative-caret-position="355">
+              <caret line="51" column="30" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -109,10 +81,10 @@
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/phinx.yml" />
         <option value="$PROJECT_DIR$/composer.json" />
-        <option value="$PROJECT_DIR$/src/Validation/Validator.php" />
         <option value="$PROJECT_DIR$/public/index.php" />
         <option value="$PROJECT_DIR$/Tests/SampleTest.php" />
         <option value="$PROJECT_DIR$/phpunit.xml" />
+        <option value="$PROJECT_DIR$/src/Validation/Validator.php" />
         <option value="$PROJECT_DIR$/Tests/Validation/ValidatorTest.php" />
       </list>
     </option>
@@ -201,7 +173,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -212,7 +183,25 @@
             <path>
               <item name="udemy_phpunit" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemy_phpunit" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="coverage" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="udemy_phpunit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemy_phpunit" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Auth" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="udemy_phpunit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemy_phpunit" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="udemy_phpunit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemy_phpunit" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Validation" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="udemy_phpunit" type="b2602c69:ProjectViewProjectNode" />
@@ -229,6 +218,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -249,9 +239,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHPUnit.phpunit.xml">
+  <component name="RunManager" selected="PHPUnit.ValidatorTest.testCheckForMinStringLengthWithValidData">
     <configuration name="SimpleTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
       <TestRunner class="Acme\Test\SimpleTest" file="$PROJECT_DIR$/Tests/SampleTest.php" scope="Class" />
+    </configuration>
+    <configuration name="ValidatorTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Acme\Tests\ValidatorTest" file="$PROJECT_DIR$/Tests/Validation/ValidatorTest.php" scope="Class" />
+    </configuration>
+    <configuration name="ValidatorTest.testCheckForMinStringLengthWithValidData" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Acme\Tests\ValidatorTest" file="$PROJECT_DIR$/Tests/Validation/ValidatorTest.php" method="testCheckForMinStringLengthWithValidData" scope="Method" />
     </configuration>
     <configuration name="ValidatorTest.testGetIsValidReturnsTrue" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
       <TestRunner class="Acme\Tests\ValidatorTest" file="$PROJECT_DIR$/Tests/Validation/ValidatorTest.php" method="testGetIsValidReturnsTrue" scope="Method" />
@@ -263,9 +259,13 @@
       <item itemvalue="PHPUnit.SimpleTest" />
       <item itemvalue="PHPUnit.phpunit.xml" />
       <item itemvalue="PHPUnit.ValidatorTest.testGetIsValidReturnsTrue" />
+      <item itemvalue="PHPUnit.ValidatorTest" />
+      <item itemvalue="PHPUnit.ValidatorTest.testCheckForMinStringLengthWithValidData" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHPUnit.ValidatorTest.testCheckForMinStringLengthWithValidData" />
+        <item itemvalue="PHPUnit.ValidatorTest" />
         <item itemvalue="PHPUnit.phpunit.xml" />
         <item itemvalue="PHPUnit.ValidatorTest.testGetIsValidReturnsTrue" />
         <item itemvalue="PHPUnit.SimpleTest" />
@@ -286,14 +286,12 @@
       <workItem from="1522764408032" duration="931000" />
       <workItem from="1522766070998" duration="301000" />
       <workItem from="1522766569705" duration="671000" />
-      <workItem from="1522767312625" duration="3794000" />
+      <workItem from="1522767312625" duration="4457000" />
+      <workItem from="1522782296352" duration="1755000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SimpleTest - 2018.04.03 at 17h 31m 18s.xml">
-      <configuration name="SimpleTest" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
     <history-entry file="phpunit_xml - 2018.04.03 at 17h 33m 19s.xml">
       <configuration name="phpunit.xml" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
@@ -303,9 +301,30 @@
     <history-entry file="phpunit_xml - 2018.04.03 at 19h 41m 39s.xml">
       <configuration name="phpunit.xml" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
+    <history-entry file="phpunit_xml - 2018.04.03 at 19h 45m 24s.xml">
+      <configuration name="phpunit.xml" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ValidatorTest - 2018.04.03 at 21h 31m 42s.xml">
+      <configuration name="ValidatorTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ValidatorTest - 2018.04.03 at 21h 33m 22s.xml">
+      <configuration name="ValidatorTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ValidatorTest_testCheckForMinStringLengthWithValidData - 2018.04.03 at 21h 37m 08s.xml">
+      <configuration name="ValidatorTest.testCheckForMinStringLengthWithValidData" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ValidatorTest_testCheckForMinStringLengthWithValidData - 2018.04.03 at 21h 38m 21s.xml">
+      <configuration name="ValidatorTest.testCheckForMinStringLengthWithValidData" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ValidatorTest_testCheckForMinStringLengthWithValidData - 2018.04.03 at 21h 39m 34s.xml">
+      <configuration name="ValidatorTest.testCheckForMinStringLengthWithValidData" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ValidatorTest_testCheckForMinStringLengthWithValidData - 2018.04.03 at 21h 39m 44s.xml">
+      <configuration name="ValidatorTest.testCheckForMinStringLengthWithValidData" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10057000" />
+    <option name="totallyTimeSpent" value="12475000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -323,23 +342,23 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32949877" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5003987" side_tool="true" weight="0.32949877" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960127" visible="true" weight="0.32949877" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32949877" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49960127" visible="true" weight="0.32949877" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32922825" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32949877" />
       <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25956938" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.59436274" visible="true" weight="0.13875598" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Database" order="4" sideWeight="0.4987745" weight="0.32974482" />
+      <window_info anchor="right" id="Structure" order="5" sideWeight="0.5012255" side_tool="true" visible="true" weight="0.21889952" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Favorites" order="1" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -378,6 +397,23 @@
     <entry file="file://$PROJECT_DIR$/public/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/Validation/ValidatorTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+          <folding>
+            <element signature="e#30#53#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
@@ -393,13 +429,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
           <caret line="15" selection-start-line="15" selection-end-line="22" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Validation/Validator.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="49" column="98" lean-forward="true" selection-start-line="49" selection-start-column="98" selection-end-line="49" selection-end-column="98" />
         </state>
       </provider>
     </entry>
@@ -446,13 +475,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/phpunit.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -481,6 +503,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/phpunit.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="8" column="59" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Http/Response.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="262">
@@ -488,10 +517,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Validation/Validator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="51" column="30" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Tests/Validation/ValidatorTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="659">
-          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        <state relative-caret-position="526">
+          <caret line="57" column="44" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
           <folding>
             <element signature="e#30#53#0#PHP" expanded="true" />
           </folding>
