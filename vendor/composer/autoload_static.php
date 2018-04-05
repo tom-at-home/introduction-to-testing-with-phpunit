@@ -78,6 +78,7 @@ class ComposerStaticInit1502d10635658cd5aa7487b18c8d711b
         ),
         'A' => 
         array (
+            'Auryn\\' => 6,
             'Acme\\' => 5,
         ),
     );
@@ -212,6 +213,10 @@ class ComposerStaticInit1502d10635658cd5aa7487b18c8d711b
         'Carbon\\' => 
         array (
             0 => __DIR__ . '/..' . '/nesbot/carbon/src/Carbon',
+        ),
+        'Auryn\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/rdlowrey/auryn/lib',
         ),
         'Acme\\' => 
         array (
